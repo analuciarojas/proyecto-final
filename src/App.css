@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-image: url('/Users/analuciarojas/Desktop/projects/proyecto-final/src/assets/bg.png');
+  background-attachment: fixed;
+  background-size: cover;
+  background-size: 100% 100%;
+
+}
+
